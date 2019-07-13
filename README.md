@@ -20,5 +20,4 @@
 ```
 ### dataset
 - Download [OTB100]http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html
-### 将数据集OTB100放入dataset文件夹
-### evaluation
+
